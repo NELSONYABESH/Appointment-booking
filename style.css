@@ -1,0 +1,18 @@
+body{
+
+    background-color: lightblue;
+}
+
+.card{
+
+    max-width: 500px;
+
+    margin: auto;
+
+    border-radius: 10px;
+}
+
+li{
+
+    font-size: 18px;
+}
